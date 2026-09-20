@@ -1,0 +1,1 @@
+Initial data analysis repository introducing foundational Python, Pandas data manipulation, dataset exploration, and basic statistical summaries. Marks the starting milestone of my data science journey.
